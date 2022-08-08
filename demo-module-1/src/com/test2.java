@@ -3,6 +3,6 @@ package com;
 public class test2 {
 
     public static void main(String[] args) {
-        System.out.println("嗲死你");
+        System.out.println("嗲死");
     }
 }
